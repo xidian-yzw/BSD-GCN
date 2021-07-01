@@ -1,0 +1,5 @@
+# ninja log v5
+4	5019	6447571232039128	E:/yzw/GCN/pre_data/sample_cuda/build/temp.win-amd64-3.7/Release/src/All/sample_cuda_kernel.obj	ce1157e8de5c06e9
+0	11281	6447571294725142	E:/yzw/GCN/pre_data/sample_cuda/build/temp.win-amd64-3.7/Release/src/All/sample_cuda.obj	4cd6156c6b7d4947
+3	3493	6447571357521225	E:/yzw/GCN/pre_data/sample_cuda/build/temp.win-amd64-3.7/Release/src/Split/sample_split_cuda_kernel.obj	9c1f337997c3e14c
+0	10003	6447571422757726	E:/yzw/GCN/pre_data/sample_cuda/build/temp.win-amd64-3.7/Release/src/Split/sample_split_cuda.obj	48771a171160c693
